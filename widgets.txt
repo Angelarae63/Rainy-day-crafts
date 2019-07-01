@@ -1,0 +1,2 @@
+Copy Blog - a widget that copies the html and css files for a website or blog, so that you can paste them into your text editor and make changes to create your own
+Pattern Widget: Template for writing knitting and crochet patterns using forms
